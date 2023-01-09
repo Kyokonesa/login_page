@@ -1,0 +1,83 @@
+.navbar {
+  position: absolute;
+  top: -14px;
+  left: 0px;
+  width: 100%;
+  height: 93px;
+  /* UI Properties */
+  background: #004ea2 0% 0% no-repeat padding-box;
+  opacity: 1;
+  color: #EAE6E6;
+}
+
+.nav-link1 {
+  /* Layout Properties */
+  top: 28px;
+  left: 1178px;
+  width: 200px;
+  right: 200px;
+  height: 27px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 20px/27px Segoe UI;
+  letter-spacing: 0px;
+  color: #eae6e6;
+  opacity: 1;
+  text-decoration: none;
+  color: #EAE6E6;
+  font-weight: bold;
+}
+
+.nav-link2 {
+  /* Layout Properties */
+  top: 28px;
+  left: 1310px;
+  width: 200px;
+  right: 400px;
+  height: 27px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 20px/27px Segoe UI;
+  letter-spacing: 0px;
+  color: #eae6e6;
+  opacity: 1;
+  text-decoration: none;
+  color: #EAE6E6;
+}
+
+.nav-link3 {
+  /* Layout Properties */
+  top: 28px;
+  left: 1458px;
+  width: 200px;
+  height: 27px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 20px/27px Segoe UI;
+  letter-spacing: 0px;
+  color: #eae6e6;
+  opacity: 1;
+  text-decoration: none;
+  color: #EAE6E6;
+}
+
+video {
+/* UI Properties */
+opacity: 1;
+margin-bottom: 75px ;
+}
+
+#vid {
+    position: absolute;
+    top: 75px;
+    left: 0;
+}
+
+.card-title {
+    font-family: SegoeUI;
+    font-size: 24px;
+    letter-spacing: 3px;
+    text-align: center;
+    color: #004ea2;
+    font-weight: bold;
+}
